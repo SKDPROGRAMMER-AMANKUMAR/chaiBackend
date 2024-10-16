@@ -1,0 +1,15 @@
+{
+  "name": "practice-oriented-project",
+  "version": "1.0.0",
+  "description": "It's a practice oriented project regarding what i've learn from previous video",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Aman kumar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
