@@ -1,0 +1,19 @@
+{
+  "name": "data-modeling-practice",
+  "version": "1.0.0",
+  "description": "This foders is desing to practice about data modeling and how to do professional setup for backend ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Aman Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "mongoose": "^8.7.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
